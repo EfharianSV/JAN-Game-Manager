@@ -1,6 +1,8 @@
 # JAN Game Manager
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/EfharianSV/JAN-Game-Manager?color=4CAF50&label=Latest%20Release)
 
+<img width="1920" height="1080" alt="ss_transparent" src="https://github.com/user-attachments/assets/b2d443d8-86c7-4b86-a5d9-ba81cafe57ae" />
+
 Local desktop game library manager built with Electron. This application allows users to centralize their local PC game collection, categorize titles, and manage a digital wishlist with local file linking.
 
 ---
