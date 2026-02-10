@@ -8,7 +8,7 @@
     "dist": "electron-builder"
   },
   "author": "Jan",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "electron-store": "^8.1.0"
   },
