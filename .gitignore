@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Local database (where your games are saved during testing)
+user-preferences.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
