@@ -1,6 +1,5 @@
-1. Install dependencies: type "npm install" without (",") on your terminal
-
-2. Start the application: type "npm start" without (",") on your terminal
+Install dependencies: type "npm install" without (",") on your terminal
+Start the application: type "npm start" without (",") on your terminal
 
 
 📂 Project Structure
